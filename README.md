@@ -1,5 +1,5 @@
-status = ONLINE 
-speed = 1.12 GB/s
+Status = ONLINE 
+Speed = 1.12 GB/s
 Database = 218.4 GB
 
 
