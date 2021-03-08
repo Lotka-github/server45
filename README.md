@@ -1,3 +1,4 @@
+Lotka Corporation 45th SuperSpeed HighClass server <br /> <br />
 Status = ONLINE <br />
 Speed = 1.12 GB/s  <br />
 Database = 218.4 GB  <br />
