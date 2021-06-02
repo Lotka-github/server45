@@ -1,0 +1,46 @@
+{
+	"moviz":[
+			{
+				"id": 1,
+				"title": "Fast and Furious 9",
+				"rating": 8.1,
+				"poster":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+				"Details": {
+						"release": "14/04/2017",
+						"category": "action",
+						"duration": "120 min"
+				}
+			
+			},
+			
+			{
+				"id": 2,
+				"title": "Enola Holmes ",
+				"rating": 9.1,
+				"poster":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg",
+				"Details": {
+						"release": "23/09/2020",
+						"category": "thriller",
+						"duration": "150 min"
+				}
+			
+			},
+			{
+				"id": 3,
+				"title": "Welcome to Sudden Death",
+				"rating": 7.5,
+				"poster":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg",
+				"Details": {
+						"release": "29/09/2020",
+						"category": "Novel",
+						"duration": "150 min"
+				}
+			
+			}
+			
+	
+	]
+
+
+
+}
