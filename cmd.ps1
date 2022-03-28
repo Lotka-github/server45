@@ -3,3 +3,4 @@ Copy-Item -Path "C:\Drive\Projects\AndroidStudio\oktapus\app\build\intermediates
 git add .
 git commit -m "from cmd"
 git push -u origin gh-pages
+pause
