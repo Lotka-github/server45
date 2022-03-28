@@ -4,7 +4,7 @@ echo " files removed"
 Copy-Item -Path "C:\Drive\Projects\AndroidStudio\oktapus\app\build\intermediates\cmake\debug\obj\" -Destination "C:\Drive\git\server45\repository\sofiles" -Recurse -force
 echo " files copied !"
 echo " initializing server"
-echo " uploading to server"
+echo " uploading to server`n`n"
 git add .
 git commit -m "from cmd"
 git push -u origin gh-pages
