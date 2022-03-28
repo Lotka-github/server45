@@ -4,4 +4,5 @@ git add .
 git commit -m "from cmd"
 git push -u origin gh-pages
 git push -u origin gh-pages
+git status
 pause
