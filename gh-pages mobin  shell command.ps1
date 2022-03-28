@@ -1,5 +1,7 @@
 
-cd "C:\Drive\Projects\AndroidStudio\oktapus" .\gradlew.bat tasks
+cd "C:\Drive\Projects\AndroidStudio\oktapus" 
+.\gradlew.bat build
+cd "C:\Drive\git\server45"
 echo " start replacing file ..."
 Get-ChildItem -Path "C:\Drive\git\server45\repository\sofiles" -Include *.* -File -Recurse | foreach { $_.Delete()}
 Start-Sleep -s 1
