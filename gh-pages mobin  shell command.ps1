@@ -1,13 +1,14 @@
-echo " start replacing file"
+echo " start replacing file ..."
 Get-ChildItem -Path "C:\Drive\git\server45\repository\sofiles" -Include *.* -File -Recurse | foreach { $_.Delete()}
 Start-Sleep -s 1
-echo " files removed"
+echo " files removed ..."
 Copy-Item -Path "C:\Drive\Projects\AndroidStudio\oktapus\app\build\intermediates\cmake\debug\obj\" -Destination "C:\Drive\git\server45\repository\sofiles" -Recurse -force
 Start-Sleep -s 1
-echo " files copied !"
-Start-Sleep -s 0.5
-echo " initializing server"
-Start-Sleep -s 0.5
+
+echo "`n files copied !!!"
+Start-Sleep -s 1
+echo " initializing server ..."
+Start-Sleep -s 1
 echo " uploading to server`n`n"
 Start-Sleep -s 0.5
 git add .
