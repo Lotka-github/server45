@@ -9,7 +9,7 @@ git add .
 git commit -m "from cmd"
 git push -u origin gh-pages
 echo " uploaded"
-echo "\n checking again ... \n"
+echo "`n checking again ... `n"
 git push -u origin gh-pages
 git status
 echo " operation completed"
