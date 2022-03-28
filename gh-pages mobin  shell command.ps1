@@ -12,5 +12,5 @@ echo " uploaded"
 echo "`n`n checking server ... `n`n"
 git push -u origin gh-pages
 git status
-echo " operation completed"
+echo " operation completed `n`n"
 pause
